@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: burlywood;
+ 
+}
+input{
+  border: none;
+  height: 40px;
+
+}
+button{
+  border: none;
+  height: 40px;
+  width: 50px;
+  border-radius: 20px;
+ background-color: white;
+ margin-left: 20px;
+}
